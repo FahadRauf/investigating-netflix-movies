@@ -1,2 +1,3 @@
 # investigating-netflix-movies
-First datacamp project in the Data Scientist with Python track
+
+Manipulating and visualizing movie and TV data
